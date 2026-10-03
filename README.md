@@ -66,7 +66,7 @@ LIMIT 25;
 
 ## SECTION C
 **Tempo de realização:** 15 minutos  
-**Link do repositório:** 
+**Link do repositório:** https://github.com/willer-barros/test-tecnico
 
 ---
 
